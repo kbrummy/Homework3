@@ -1,3 +1,5 @@
-# Homework3
-This homework assignment was hard for me. Hence why I'm submitting it late. I wasn't able to complete the assignment, but I will go back and finish it. I'm submitting what I have so far. 
-The assignment was to create a random password generator. I got as far as getting the prompts to load and ask what the user wants for their password, but wasn't able to get to the part where the password generates. I'm going to be working on this still and reviewing more of Java Script. 
+Password Generator
+
+After clicking the button, follow the prompts to personlize your random password. 
+
+Made with: HTML, CSS, and JavaScript. 
